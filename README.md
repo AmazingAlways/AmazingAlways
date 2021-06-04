@@ -60,5 +60,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ![FOSSA Status](https://app.fossa.com/api/projects/custom%2B17679%2Fgit%40github.com%3Anetlify%2Fnetlify-cms.git.svg?type=shield) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]
+ ![FOSSA Status](https://app.fossa.com/api/projects/custom%2B17679%2Fgit%40github.com%3Anetlify%2Fnetlify-cms.git.svg?type=shield) [![Udeze Preston](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]
 
