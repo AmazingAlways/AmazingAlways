@@ -60,5 +60,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![PRs Welcome]https://img.shields.io/badge/Preston-Preston%2C%20I%20am%20a%20passionate%20Developer-%23FC00FF)](https://preston-tech.netlify.app/)
+[![PRs Welcome](https://img.shields.io/badge/Preston-Preston%2C%20I%20am%20a%20passionate%20Developer-%23FC00FF)](https://preston-tech.netlify.app/)
 
