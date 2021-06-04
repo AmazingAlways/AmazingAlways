@@ -60,5 +60,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-(https://img.shields.io/npm/v/netlify-cms.svg?style=flat)](https://www.npmjs.com/package/netlify-cms) [![Build Status](https://github.com/netlify/netlify-cms/workflows/Node%20CI/badge.svg)](https://github.com/netlify/netlify-cms/actions?query=branch%3Amaster+workflow%3A%22Node+CI%22) ![FOSSA Status](https://app.fossa.com/api/projects/custom%2B17679%2Fgit%40github.com%3Anetlify%2Fnetlify-cms.git.svg?type=shield) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]
+ ![FOSSA Status](https://app.fossa.com/api/projects/custom%2B17679%2Fgit%40github.com%3Anetlify%2Fnetlify-cms.git.svg?type=shield) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]
 
